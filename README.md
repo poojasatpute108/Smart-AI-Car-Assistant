@@ -27,6 +27,11 @@ The application is developed step-by-step and finally integrated into a single p
 - Google Maps (conceptual integration)
 - Explainable AI concepts
 
+## Use Cases
+- Smart car driver assistance system
+- Voice-based alerts for fuel, traffic and road safety
+- Simulation model for AI-driven vehicle decision systems
+
 ## Project Structure
 - Day-wise development files (Day 1 to Day 12)
 - Final combined application
@@ -35,6 +40,7 @@ The application is developed step-by-step and finally integrated into a single p
 ```bash
 python day12-final.py
 
+_ _ _
 
 ## Author 
 **Pooja Satpute**  
