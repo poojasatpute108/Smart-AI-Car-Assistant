@@ -36,13 +36,13 @@ The application is developed step-by-step and finally integrated into a single p
 - Day-wise development files (Day 1 to Day 12)
 - Final combined application
 
-## How to Run
-```bash
-python day12-final.py
-
-## Author 
+## Author
 **Pooja Satpute**  
 Computer Engineering Student  
 Aspiring AI & Software Engineer 🚀
+
+## How to Run
+```bash
+python day12-final.py
 
 
