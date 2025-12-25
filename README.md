@@ -7,8 +7,6 @@ It helps drivers by providing voice-based alerts and intelligent analysis relate
 
 The application is developed step-by-step and finally integrated into a single polished desktop app.
 
----
-
 ## 🧠 Key Features
 - 🎤 Voice input using microphone
 - 🔊 Voice output using text-to-speech
@@ -20,5 +18,18 @@ The application is developed step-by-step and finally integrated into a single p
 - 🖥 Desktop GUI with background image
 - 📅 Reminder and special-day awareness (optional module)
 
----
+## Technologies Used
+- Python 3.12
+- Tkinter (Desktop GUI)
+- pyttsx3 (Text-to-Speech)
+- SpeechRecognition (optional)
+- Git & GitHub
+
+## Project Structure
+- Day-wise development files (Day 1 to Day 12)
+- Final combined application
+
+## How to Run
+```bash
+python day12-final.py
 
