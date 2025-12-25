@@ -35,3 +35,10 @@ The application is developed step-by-step and finally integrated into a single p
 ```bash
 python day12-final.py
 
+
+## Author 
+**Pooja Satpute**  
+Computer Engineering Student  
+Aspiring AI & Software Engineer 🚀
+
+
