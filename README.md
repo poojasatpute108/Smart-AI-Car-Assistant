@@ -23,7 +23,9 @@ The application is developed step-by-step and finally integrated into a single p
 - Tkinter (Desktop GUI)
 - pyttsx3 (Text-to-Speech)
 - SpeechRecognition (optional)
-- Git & GitHub
+- Pillow (for UI images)
+- Google Maps (conceptual integration)
+- Explainable AI concepts
 
 ## Project Structure
 - Day-wise development files (Day 1 to Day 12)
