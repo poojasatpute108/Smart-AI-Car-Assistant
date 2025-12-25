@@ -1,5 +1,14 @@
 # Smart-AI-Car-Assistant
 A voice-based smart car assistant desktop application that analyzes fuel level, traffic, road condition, reminders, and provides voice alerts with explainable AI.
+
+## 📖 Project Overview
+This project is a desktop-based AI voice assistant designed to simulate a smart car assistant system.  
+It helps drivers by providing voice-based alerts and intelligent analysis related to fuel level, traffic condition, road condition, and safety warnings.
+
+The application is developed step-by-step and finally integrated into a single polished desktop app.
+
+---
+
 ## 🧠 Key Features
 - 🎤 Voice input using microphone
 - 🔊 Voice output using text-to-speech
